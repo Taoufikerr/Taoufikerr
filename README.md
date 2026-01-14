@@ -1,44 +1,53 @@
-# 👋 Hi, I'm Taoufik
+## 👋 Hi, I'm Taoufik
 
-I’m a **Full-Stack Engineer** and **AI/Automation Builder**.  
-I run **TS Agency** — an async automation service that helps founders, freelancers, and teams save hours each week by automating repetitive work.  
-⚡ 100% async, no calls — just results.
-
----
-
-## 🚀 What I Do
-- **Automation:** n8n workflows, async systems, Notion + Sheets integrations
-- **AI Projects:** LLM-powered dashboards, CV matching, heart disease prediction apps
-- **Web Development:** MERN stack apps (React, Node.js, Express, MongoDB)
-- **Data & Analytics:** Python, Power BI, Streamlit, advanced statistical analysis
+AI student and data analyst with a strong focus on data analysis, visualization,
+and insight generation. I work with different types of data and enjoy turning
+raw information into clear, meaningful visuals that support decision-making.
 
 ---
 
-## 🛠️ Tech Stack
-- **Languages:** TypeScript, JavaScript, Python  
-- **Frameworks:** React, Node.js, NestJS, Express  
-- **Automation:** n8n, Groq LLM, Notion API, Google Sheets API, SMTP  
-- **AI / Data:** Streamlit, scikit-learn, pandas, Power BI, OpenAI API  
-- **Other tools:** MongoDB, Docker, Azure, GitHub Actions  
+## 📊 What I Do
+- Analyze and explore datasets from various domains
+- Build interactive and insightful dashboards using Power BI
+- Create clear data stories through visuals and reports
+- Prepare, clean, and transform data for analysis
 
 ---
 
-## 📈 TS Agency
-Async automation for individuals and teams:  
-- Automation Brief → personalized async roadmap (delivered in 24h)  
-- Done-for-You Automation → one workflow fully built  
-- Custom Systems → multi-workflow async backends  
+## 🧰 Tech Stack
 
-👉 [Order on Gumroad](https://taoufikraji.gumroad.com/l/tywxy)  
-👉 [Submit a request (Tally form)](https://tally.so/r/mVe2Aa)
+### Data Analysis & Visualization
+- Power BI (DAX, data modeling, Power Query)
+- Data visualization & storytelling
 
----
-
-## 🌐 Connect
-- [LinkedIn](https://www.linkedin.com/in/taoufik-errajraji13/)  
-- [GitHub](https://github.com/Taoufikerr)  
-- [Email](mailto:taoufik.errajraji01@gmail.com)
+### Data & Programming
+- Python (data analysis & machine learning)
 
 ---
 
-💡 *Engineer by training. Builder at heart. Focused on async systems and AI that save people time.*
+## 🤖 Automation
+- Workflow automation for data-related tasks (n8n, APIs)
+
+---
+
+## 🧠 AI & Machine Learning Background
+I have an academic background in:
+- Machine Learning
+- Deep Learning
+
+This background helps me better understand data behavior and analytical results,
+even when my current focus is on analytics and visualization.
+
+---
+
+## 📌 Interests
+- Business Intelligence
+- Data visualization
+- Analytics & reporting
+- Applied AI in data-driven systems
+
+---
+
+## 📫 Contact
+- Email: your-email-here  
+- LinkedIn: your-linkedin-here
